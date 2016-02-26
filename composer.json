@@ -1,8 +1,8 @@
 {
-  "name": "ibrahimmomani/numerals",
+  "name": "ibrahimmomani/numeralstool",
   "description": "Simple arabic-roman numerals format convert handler.",
   "type": "library",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "keywords": [
     "arabic",
     "roman",
