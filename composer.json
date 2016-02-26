@@ -1,6 +1,6 @@
 {
   "name": "ibrahimmomani/numerals",
-  "description": "Simple arabic-roman numerals format converte handler.",
+  "description": "Simple arabic-roman numerals format convert handler.",
   "type": "library",
   "minimum-stability": "stable",
   "keywords": [
@@ -15,14 +15,17 @@
       "email": "ibrahimmomani@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=5.5.9"
+  },
   "autoload": {
     "psr-4": {
-      "Ibrahimmomani\\Numerals\\": "src"
+      "Numerals\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Ibrahimmomani\\Numerals\\Test\\": "test"
+      "Numerals\\Test\\": "test"
     }
   },
   "require-dev": {

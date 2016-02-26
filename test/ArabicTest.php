@@ -1,6 +1,6 @@
 <?php
 
-use Ibrahimmomani\Numerals\Arabic;
+use Numerals\Arabic;
 
 class ArabicTest extends \PHPUnit_Framework_TestCase
 {

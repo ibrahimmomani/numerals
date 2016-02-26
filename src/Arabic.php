@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibrahimmomani\Numerals;
+namespace Numerals;
 
 /**
  * Class Arabic

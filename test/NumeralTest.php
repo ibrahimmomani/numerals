@@ -1,6 +1,6 @@
 <?php
 
-use Ibrahimmomani\Numerals\Numeral;
+use Numerals\Numeral;
 
 class NumeralTest extends \PHPUnit_Framework_TestCase
 {
@@ -17,7 +17,7 @@ class NumeralTest extends \PHPUnit_Framework_TestCase
     public function testCreation($type, $value=123)
     {
         $obj = Numeral::factory($type, $value);
-        $this->assertInstanceOf('Ibrahimmomani\Numerals\NumeralInterface', $obj);
+        $this->assertInstanceOf('Numerals\NumeralInterface', $obj);
     }
     /**
      * @expectedException InvalidArgumentException

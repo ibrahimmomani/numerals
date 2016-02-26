@@ -1,6 +1,6 @@
 <?php
 
-use Ibrahimmomani\Numerals\Roman;
+use Numerals\Roman;
 
 class RomanTest extends \PHPUnit_Framework_TestCase
 {
