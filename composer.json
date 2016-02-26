@@ -16,12 +16,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "ibrahimmomani\\Numerals\\": "src"
+      "Ibrahimmomani\\Numerals\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "ibrahimmomani\\Numerals\\Test\\": "test"
+      "Ibrahimmomani\\Numerals\\Test\\": "test"
     }
   },
   "require-dev": {
