@@ -2,6 +2,7 @@
   "name": "ibrahimmomani/numerals",
   "description": "Simple arabic-roman numerals format converte handler.",
   "type": "library",
+  "minimum-stability": "stable",
   "keywords": [
     "arabic",
     "roman",
