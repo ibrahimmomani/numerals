@@ -20,12 +20,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Numerals\\": "src"
+      "Numerals": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Numerals\\Test\\": "test"
+      "Numerals\\Test": "test"
     }
   },
   "require-dev": {
